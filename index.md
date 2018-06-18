@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Color Filtering
+# List of projects by me..
+
+## Color Filtering
 #### OpenCV, Image-data analysis
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -11,7 +13,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-# Basic Chat Box
+## Basic Chat Box
 #### node.js, Web Application
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -20,7 +22,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-# Live Twitter data Sentiment Analysis
+## Live Twitter data Sentiment Analysis
 #### NLTK, Text-data analysis
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -29,7 +31,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-# Passenger Screening Algorithm
+## Passenger Screening Algorithm
 #### Efficient cross-validation results, Machine learning
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -38,7 +40,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-# Offline Handwriting Recognition using CNN
+## Offline Handwriting Recognition using CNN
 #### Neural Networks, Machine Learning and Computer Vision
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -47,7 +49,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-# Smallest enclosing circle
+## Smallest enclosing circle
 #### Bichromatic Data Structures, Algorithms
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -56,7 +58,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * * *
 
-# Walmart Store Sales Forecasting
+## Walmart Store Sales Forecasting
 #### Linear Regression, Data Visualisation and Prediction
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
