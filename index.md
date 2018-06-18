@@ -34,7 +34,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-[Link to project page](https://tejasreddy9.github.io/wssforecast).
+[Link to project page](https://tejasreddy9.github.io/psa_homeland).
 
 * * *
 
@@ -43,7 +43,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-[Link to project page](https://tejasreddy9.github.io/wssforecast).
+[Link to project page](https://tejasreddy9.github.io/handwriting_cnn).
 
 * * *
 
