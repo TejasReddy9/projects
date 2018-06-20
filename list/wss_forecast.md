@@ -1,5 +1,5 @@
 ---
-layout: project_page
+layout: project1
 ---
 
 # Overview
