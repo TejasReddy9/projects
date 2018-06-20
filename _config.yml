@@ -1,6 +1,8 @@
 title: Projects
 proj1: Walmart Sales Forecasting
 proj1_details: Details walmart
+proj1_url: https://github.com/TejasReddy9/wssforecast
+proj1_name: wssforecast
 description: This is a list describing all the projects I have done with links to respective project pages.
 show_downloads: true
 google_analytics:
