@@ -9,7 +9,7 @@ layout: default
 
 Detects a specified color in the image and filtered-out image is produced. Implemented using OpenCV package for computer vision in Python.
 
-[Link to project page](https://tejasreddy9.github.io/color-filtering).
+[Link to project page](https://tejasreddy9.github.io/color_filtering).
 
 * * *
 
