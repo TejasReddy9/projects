@@ -1,3 +1,5 @@
 # Projects
 
-#### These developed projects are presented by K Tejas Reddy.
+#### Webpage developed for listing my projects
+
+#### Go to [Main Github Handle](https://github.com/TejasReddy9)
